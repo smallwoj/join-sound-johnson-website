@@ -3,7 +3,12 @@
 </script>
 
 <template>
-  <v-footer class="text-center d-flex flex-column">
+  <v-footer
+    class="text-center d-flex flex-column"
+    app
+    bottom
+    fixed
+  >
     <div>
       <router-link to="/terms-of-service">
         <span>Terms of Service</span>

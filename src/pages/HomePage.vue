@@ -3,5 +3,9 @@
 </script>
 
 <template>
-  <h1>Home</h1>
+  <v-container class="fill-height">
+    <v-responsive class="d-flex text-center fill-height">
+      <h1>Home</h1>
+    </v-responsive>
+  </v-container>
 </template>

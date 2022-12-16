@@ -3,5 +3,9 @@
 </script>
 
 <template>
-  <h1>Terms of Service</h1>
+  <v-container class="fill-height">
+    <v-responsive>
+      <h1>Terms of Service</h1>
+    </v-responsive>
+  </v-container>
 </template>
