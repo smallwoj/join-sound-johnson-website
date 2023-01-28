@@ -8,7 +8,7 @@
       <h1>Terms of Service</h1>
       <p>
         Terms of service for the Join Sound Johnson bot (henceforth "Bot"),
-        this guides our users on how they can use the Bot.
+        this guides our users on how they can use the Bot. Effective January 2023.
       </p>
       <h2>Conditions</h2>
       <p>General conditions regarding the Bot are under this topic.</p>
