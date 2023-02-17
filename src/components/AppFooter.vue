@@ -5,7 +5,7 @@
 <template>
   <v-footer
     class="text-center d-flex flex-column"
-    absolute
+    app
   >
     <div>
       <router-link to="/terms-of-service">
