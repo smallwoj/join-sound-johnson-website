@@ -1,5 +1,6 @@
 <script setup lang="ts">
-//
+/// <reference types="vite-svg-loader" />
+import iconURL from '@/assets/join-sound-johnson.svg?url';
 </script>
 
 <template>
@@ -7,10 +8,7 @@
     <v-spacer />
     <v-col cols="1">
       <router-link to="/">
-        <v-img
-          height="125"
-          src="src/assets/join-sound-johnson.svg"
-        />
+        <v-img :src="iconURL" />
       </router-link>
     </v-col>
     <v-col

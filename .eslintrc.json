@@ -13,7 +13,8 @@
     // override/add rules settings here, such as:
     // 'vue/no-unused-vars': 'error'
     "import/no-unresolved": "off",
-    "import/extensions": "off"
+    "import/extensions": "off",
+    "import/no-extraneous-dependencies": ["error", {"devDependencies": true, "optionalDependencies": true, "peerDependencies": true}] 
   },
   "overrides": [
     {
