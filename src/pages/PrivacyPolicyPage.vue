@@ -6,7 +6,7 @@
   <v-container class="fill-height">
     <v-responsive>
       <h1>Privacy Policy</h1>
-      <p>Effective: June 2022</p>
+      <p>Effective: February 2023</p>
       <h2>General Data Protection Regulations (GDPR)</h2>
       <p>We are a Data Controller of your information.</p>
       <p>

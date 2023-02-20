@@ -6,6 +6,7 @@
   <v-container class="fill-height">
     <v-responsive>
       <h1>Terms of Service</h1>
+      <p>Effective: February 2023</p>
       <p>
         Terms of service for the Join Sound Johnson bot (henceforth "Bot"),
         this guides our users on how they can use the Bot. Effective January 2023.
