@@ -6,7 +6,7 @@
   <v-container class="fill-height">
     <v-responsive class="d-flex text-center fill-height">
       <p>
-        Join Sound Johnson is a Discord bot that allows you to set a YouTube link to a video that
+        Join Sound Johnson is a Discord bot that allows you to set a video or audio file that
         plays when you connect to a voice channel.
       </p>
       <p>

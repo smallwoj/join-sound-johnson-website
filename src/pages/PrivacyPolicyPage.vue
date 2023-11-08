@@ -6,7 +6,7 @@
   <v-container class="fill-height">
     <v-responsive>
       <h1>Privacy Policy</h1>
-      <p>Effective: February 2023</p>
+      <p>Effective: November 2023</p>
       <h2>General Data Protection Regulations (GDPR)</h2>
       <p>We are a Data Controller of your information.</p>
       <p>
@@ -115,16 +115,6 @@
       </p>
 
       <h2>Third Party Privacy Policies</h2>
-      Join Sound Johnson's Privacy Policy does not apply to other websites or services.
-      Please view the respective Privacy Policies of these third-party services for
-      more detailed information:
-      <v-list>
-        <v-list-item>
-          <a href="https://policies.google.com/u/1/privacy?hl=en-GB">
-            YouTube
-          </a>
-        </v-list-item>
-      </v-list>
       <p>
         Our site may link to external pages or files that are not operated by us. We do
         not have control over this content, and don't accept responsibility or liability
