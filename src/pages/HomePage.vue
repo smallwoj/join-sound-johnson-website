@@ -23,7 +23,7 @@
         <v-btn
           color="primary"
           class="ma-2"
-          href="https://discord.com/oauth2/authorize?client_id=953092836608319549&permissions=2184202240&scope=applications.commands%20bot"
+          href="https://discord.com/application-directory/953092836608319549"
           target="_blank"
         >
           <v-icon
@@ -32,7 +32,7 @@
           >
             mdi-account-plus
           </v-icon>
-          Invite
+          App Directory
         </v-btn>
         <v-btn
           color="primary"
